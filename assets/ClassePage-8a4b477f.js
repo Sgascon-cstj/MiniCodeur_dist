@@ -1,0 +1,1 @@
+import{D as a}from"./DefaultLayout-bfd4b0b8.js";import{d as t,o,c as s,l as n,w as l,f as e}from"./index-3512041f.js";import"./UserRepository-6a763eae.js";const r=e("div",null,[e("h1",null,"Classe page")],-1),i=t({__name:"ClassePage",setup(c){return o(async()=>{}),(u,_)=>(s(),n(a,null,{default:l(()=>[r]),_:1}))}});export{i as default};
